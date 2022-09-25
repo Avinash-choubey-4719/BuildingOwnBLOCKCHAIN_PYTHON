@@ -1,0 +1,20 @@
+# BuildingOwnBLOCKCHAIN_PYTHON
+
+# IMPORT SHA256 ALGORTITHM MODULE
+![image](https://user-images.githubusercontent.com/104202659/192157851-6fc40519-05dc-4fc8-b19a-fe02fe73c71b.png)
+
+
+# MAKING THE FUNCTION FOR GETTING THE REQUIRED HASH VALUE FOR THE INCOMING DATA INTO OUR BLOCKCHAIN
+![image](https://user-images.githubusercontent.com/104202659/192157900-ffcdbf8b-9cba-40f6-8562-7a8efd51aefd.png)
+
+
+# CREATING THE BLOCK CLASS FOR MAKING THE REQUIRED BLOCK TO MINE INTO OUR BLOCKCHAIN
+![image](https://user-images.githubusercontent.com/104202659/192157936-adb82913-61ec-49f6-a711-fc113fce681d.png)
+
+
+# CREATING THE CLASS BLOCKCHAIN FOR MAKING THE REQUIRED BLOCKCHAIN FOR DATA MINIG
+![image](https://user-images.githubusercontent.com/104202659/192157981-d26e4b5e-867d-4598-84e6-97889c13240b.png)
+
+
+# MAKING THE BLOCKCHAIN
+![image](https://user-images.githubusercontent.com/104202659/192158004-9b01abb3-0839-4221-a8f3-cd1f29ac536e.png)
